@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Nadar Fredrick Rose Marshall</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **OnlineAuctionSystem**
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React, Framer-Motion**
