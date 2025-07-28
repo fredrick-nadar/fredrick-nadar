@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Hackathon Aggregator<br>🌱 I’m currently learning Java
 
-![Ayon GIF](https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Ayon_ssp.gif)
 
 
 
