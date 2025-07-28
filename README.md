@@ -12,6 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fredrick-nadar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrick-nadar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![Snake animation](https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/output/snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fredrick-nadar&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
