@@ -1,7 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on Hackathon Aggregator<br>🌱 I’m currently learning Java
+<h1 align="center">Hi 👋, I'm Fredrick Rose Marshall</h1>
+<h3 align="center">A Passionate Computer Engineering Student from Fr. CRCE</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Ayon_ssp.gif">
 
+- 🎓 Second-year Computer Engineering Student @ Fr. CRCE
+- 🏆 Winner of **Recursion 6.0** Hackathon (1st Place)
+- 🚀 2× Hackathon Finalist – BIT & Build, SIH 2024
+- 💻 Currently working on **Hackathon Aggregator** project
+- 📚 Learning **Java DSA** & improving my **Web Development**
 
 
 ## 🌐 Socials:
