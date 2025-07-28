@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Gif.gif">
 
-- 🎓 Second-year Computer Engineering Student @ Fr. CRCE
+- 🎓 Third-year Computer Engineering Student @ Fr. CRCE
 - 🏆 Winner of **Recursion 6.0** Hackathon (1st Place)
 - 🚀 2× Hackathon Finalist – BIT & Build, SIH 2024
 - 💻 Currently working on **Hackathon Aggregator** project
