@@ -22,7 +22,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/output/snake.svg)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fredrick-nadar&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
