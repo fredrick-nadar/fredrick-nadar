@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Hackathon Aggregator<br>🌱 I’m currently learning Java
 
+![Ayon GIF](https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Ayon_ssp.gif)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fredrick-nadar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredrick-nadar-262b4428b/) 
