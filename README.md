@@ -6,7 +6,7 @@
 - 🎓 Third-year Computer Engineering Student @ Fr. CRCE
 - 🏆 Winner of **Recursion 6.0** Hackathon (1st Place)
 - 🏆 Winner of **Quasar 3.0** Hackathon (3rd Place)
-- 🚀 4× Hackathon Finalist – BIT & Build, SIH;24, MumbaiHacks'25, SIH'25
+- 🚀 5× Hackathon Finalist – BIT & Build, SIH'24, MumbaiHacks'25, SIH'25, EY'Teachathon_6.0
 - 💻 Currently working on **Hackathon Aggregator** project
 - 📚 Learning **Java DSA** & improving my **Web Development**
 
