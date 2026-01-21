@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Gif.gif">
 
 - 🎓 Third-year Computer Engineering Student @ Fr. CRCE
+- 🏆 **Smart India Hackathon 2025 Winner** (1st Place)
 - 🏆 Winner of **Recursion 6.0** Hackathon (1st Place)
 - 🏆 Winner of **Quasar 3.0** Hackathon (3rd Place)
 - 🚀 5× Hackathon Finalist – BIT & Build, SIH'24, MumbaiHacks'25, SIH'25, EY'Teachathon_6.0
