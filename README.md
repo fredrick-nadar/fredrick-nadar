@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fredrick Rose Marshall</h1>
+<h1 align="center">Hi 👋, I'm Fredrick Nadar</h1>
 <h3 align="center">A Passionate Computer Engineering Student from Fr. CRCE</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Gif.gif">
