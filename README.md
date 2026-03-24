@@ -27,14 +27,6 @@
 
 <div align="center">
  
-![Battle Stats](https://github-readme-stats.vercel.app/api?username=fredrick-nadar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00b4d8&text_color=ffffff&include_all_commits=true&count_private=true&custom_title=⚔️%20BATTLE%20STATS)
- 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=fredrick-nadar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=FF6B6B&currStreakLabel=00FF9C&sideLabels=00b4d8&dates=ffffff)
- 
-</div>
-
-<div align="center">
- 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fredrick-nadar&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ff6b6b&area=true&hide_border=true&custom_title=Fredrick%27s%20Contribution%20Timeline)](https://github.com/fredrick-nadar)
  
 </div>
