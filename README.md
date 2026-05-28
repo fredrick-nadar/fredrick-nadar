@@ -21,10 +21,6 @@
 - 💻 Currently working on **Hackathon Aggregator** project
 - 📚 Learning **Java DSA** & improving my **Web Development**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fredrick-nadar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredrick-nadar-262b4428b/) 
-
 <div align="center">
  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fredrick-nadar&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ff6b6b&area=true&hide_border=true&custom_title=Fredrick%27s%20Contribution%20Timeline)](https://github.com/fredrick-nadar)
