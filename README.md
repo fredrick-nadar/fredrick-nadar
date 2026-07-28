@@ -9,32 +9,153 @@
                                                                      
 
 ```
-<h3 align="center">A Passionate Computer Engineering Student from Fr. CRCE</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Gif.gif">
-
-- 🎓 Third-year Computer Engineering Student @ Fr. CRCE
-- 🏆 **Smart India Hackathon 2025 Winner** (1st Place)
-- 🏆 Winner of **Recursion 6.0** Hackathon (1st Place)
-- 🏆 Winner of **Quasar 3.0** Hackathon (3rd Place)
-- 🚀 5× Hackathon Finalist – BIT & Build, SIH'24, MumbaiHacks'25, SIH'25, EY'Teachathon_6.0
-- 💻 Currently working on **Hackathon Aggregator** project
-- 📚 Learning **Java DSA** & improving my **Web Development**
-
 <div align="center">
- 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fredrick-nadar&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ff6b6b&area=true&hide_border=true&custom_title=Fredrick%27s%20Contribution%20Timeline)](https://github.com/fredrick-nadar)
- 
+
+### Computer Engineering @ Fr. CRCE · Hackathon Winner · Full-Stack Builder
+
+<a href="https://github.com/fredrick-nadar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=760&lines=Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Building+ideas+that+survive+the+demo+%F0%9F%9A%80;Java+DSA+%C2%B7+Full-Stack+Web+%C2%B7+Problem+Solving;Five-time+Hackathon+Finalist+and+counting..." alt="Typing introduction" />
+</a>
+
+<p>
+  <a href="https://github.com/fredrick-nadar?tab=followers"><img src="https://img.shields.io/github/followers/fredrick-nadar?label=Followers&style=for-the-badge&logo=github&color=111827&labelColor=00C2FF" alt="GitHub followers" /></a>
+  <a href="https://github.com/fredrick-nadar?tab=repositories"><img src="https://img.shields.io/github/stars/fredrick-nadar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=111827&labelColor=8B5CF6" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fredrick-nadar&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fredrick-nadar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=fredrick-nadar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrick-nadar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
+
+<img align="right" alt="Fredrick coding" width="390" src="https://raw.githubusercontent.com/fredrick-nadar/fredrick-nadar/main/Gif.gif" />
+
+## ⚡ About Me
+
+> **I build fast, learn faster, and show up when the clock is red.**
+
+- 🎓 Computer Engineering student at **Fr. CRCE**
+- 🏆 **Smart India Hackathon 2025 — 1st Place**
+- 🥇 **Recursion 6.0 — 1st Place**
+- 🥉 **Quasar 3.0 — 3rd Place**
+- 🚀 **5× Hackathon Finalist** across national and large-scale competitions
+- 🛠️ Building a **Hackathon Aggregator** to make discovering opportunities effortless
+- 🧠 Sharpening **Java DSA**, full-stack engineering, and practical problem-solving
+- 🎯 Focused on shipping products that are useful, scalable, and memorable
+
+<br clear="right" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fredrick-nadar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 The Highlight Reel
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>🥇 SIH '25</h3>
+  <strong>National Winner</strong><br />
+  Smart India Hackathon
+</td>
+<td align="center" width="25%">
+  <h3>🏆 2×</h3>
+  <strong>First-Place Finishes</strong><br />
+  SIH '25 · Recursion 6.0
+</td>
+<td align="center" width="25%">
+  <h3>🚀 5×</h3>
+  <strong>Hackathon Finalist</strong><br />
+  Built under pressure
+</td>
+<td align="center" width="25%">
+  <h3>⚙️ Build Mode</h3>
+  <strong>Hackathon Aggregator</strong><br />
+  Discover · Track · Compete
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🥇 Podium Finishes
+
+| Competition | Result | Signal |
+|:--|:--:|:--|
+| **Smart India Hackathon 2025** | 🥇 **1st Place** | National-level execution, collaboration, and impact |
+| **Recursion 6.0** | 🥇 **1st Place** | Rapid ideation and end-to-end product building |
+| **Quasar 3.0** | 🥉 **3rd Place** | Strong technical delivery in a competitive field |
+
+### 🚀 Finalist Runs
+
+`BIT & Build` · `SIH 2024` · `MumbaiHacks 2025` · `SIH 2025` · `EY Techathon 6.0`
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases, Cloud & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
+
+---
+
+## 📈 Contribution Timeline
+
+<div align="center">
+
+[![Fredrick's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=fredrick-nadar&bg_color=0d1117&color=7dd3fc&line=8b5cf6&point=22d3ee&area=true&area_color=312e81&hide_border=true&custom_title=Fredrick%27s%20Contribution%20Timeline)](https://github.com/fredrick-nadar)
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Worth Remembering
+
+<div align="center">
+
+I am always open to **ambitious builds, hackathons, engineering collaborations, and meaningful opportunities**.
+
+<a href="https://github.com/fredrick-nadar">
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Fredrick's GitHub" />
+</a>
+
+<br /><br />
+
+### `Think boldly. Build relentlessly. Ship with impact.`
+
+</div>
+
+<!--
+  Built to be clean, high-signal, and easy to maintain.
+  Update achievements and current-focus items as your journey evolves.
+-->
